@@ -381,15 +381,11 @@ Follow these steps to run the portfolio locally.
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-```
+https://github.com/thoufeekt361/CodeOrbit_Portfolio
 
 ### 2. Open the project
 
-```bash
-cd YOUR-REPOSITORY
-```
+cd CodeOrbit_Portfolio
 
 ### 3. Run the project
 
@@ -435,11 +431,11 @@ The layout automatically adjusts using CSS media queries, Flexbox, and CSS Grid.
 
 ### LinkedIn
 
-[Visit my LinkedIn](https://www.linkedin.com/in/thoufeek-t-60838a358/)
+https://www.linkedin.com/in/thoufeek-t-60838a358/
 
 ### Email
 
-Add your professional email address here.
+thoufeekt361@gmail.com
 
 ### College
 
